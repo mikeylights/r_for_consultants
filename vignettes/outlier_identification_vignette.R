@@ -1,5 +1,5 @@
 library(pacman)
-p_load(tidyverse, plyr, vroom, fs, ggpubr)
+p_load(tidyverse, plyr, vroom, fs, ggpubr, rstatix)
 
 ### Load data ####
 data(iris)
