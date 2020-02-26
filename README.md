@@ -3,6 +3,7 @@ This project is a repo for any professional that needs to quickly get up to spee
 
 ## Current Vignettes 
 - **vroom** -- the absolute fastest method for importing and exporting data in R
+- **outlier identification** -- an automated method for applying outlier identification techniques (Tukey 1.5/3, z, zmad) to any data set
 - **dtplyr** -- an elegant way to use data.table as a backend when writing dplyr syntax for wrangling
 - **sparklyr** -- a method for distributed computing while leveraging dplyr syntax (vignette shows effective wrangling of ~30m rows)
 - **group_walk** -- an elegant way automatically split a dataframe by a factor variable and export each subset
